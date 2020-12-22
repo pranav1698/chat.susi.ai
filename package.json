@@ -18,7 +18,7 @@
     "google-maps-react": "2.0.2",
     "history": "4.7.2",
     "html-entities": "1.2.1",
-    "html-react-parser": "0.3.6",
+    "html-react-parser": "1.0.0",
     "html-to-text": "3.3.0",
     "initials": "3.0.0",
     "jquery": "3.3.1",
